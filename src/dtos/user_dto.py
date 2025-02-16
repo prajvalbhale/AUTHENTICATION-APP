@@ -11,3 +11,9 @@ class CreateUserDTO(BaseModel):
 class TokenDTO(BaseModel):
     access_token: str
     token_type: str
+
+class UpdateUserDTO(BaseModel):
+    userName: str
+    userMail: str
+    phone: str
+    address: str
