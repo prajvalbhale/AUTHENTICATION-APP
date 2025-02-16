@@ -1,2 +1,3 @@
 auth_app.db
 .idea
+*.pyc
