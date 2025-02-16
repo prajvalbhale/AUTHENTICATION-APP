@@ -14,8 +14,8 @@ This is authentication application in python, you can use this project by just s
      06. User/admin can signup with google.
      07. User/admin can edit and upload image.
      08. ✅ Fetch all users created by current logged in user.
-     09. Edit user details.
-     10. Fetch user by id.
+     09. ✅ Edit user details.
+     10. ✅ Fetch user by id.
      11. Fetch all coins details.
      12. You can select a coin, and see the current status of the coin. last price, Trend based on change percentage.
      13. You can see graphs of the coin.
