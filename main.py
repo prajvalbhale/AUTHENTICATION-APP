@@ -6,10 +6,12 @@ import database
 from database import engine
 from src.controllers import auth_controller
 from src.controllers import user_controller
+from src.controllers import weather_controller
 
 app = FastAPI()
 app.include_router(auth_controller.router)
 app.include_router(user_controller.router)
+app.include_router(weather_controller.router)
 
 database.Base.metadata.create_all(bind=engine)
 
