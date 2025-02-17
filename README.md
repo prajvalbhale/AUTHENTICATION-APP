@@ -10,15 +10,15 @@ This is authentication application in python, you can use this project by just s
      02. ✅ Admin can login and logout.
      03. ✅ Now create user account (Under admin login).
      04. ✅ User can login and logout.
-     05. User/admin can login with google.
-     06. User/admin can signup with google.
-     07. User/admin can edit and upload image.
+     05. ✅ User/admin can login with google.
+     06. ✅ User/admin can signup with google.
+     07. ✅ User/admin can edit and upload image.
      08. ✅ Fetch all users created by current logged in user.
      09. ✅ Edit user details.
      10. ✅ Fetch user by id.
-     11. Fetch all coins details.
-     12. You can select a coin, and see the current status of the coin. last price, Trend based on change percentage.
-     13. You can see graphs of the coin.
+     11. Fetch all coins details. [api is not working asking to login/signup on unauthorised website]
+     12. You can select a coin, and see the current status of the coin. last price, Trend based on change percentage. [api is not working asking to login/signup on unauthorised website]
+     13. You can see graphs of the coin. [api is not working asking to login/signup on unauthorised website]
      14. ✅ You can get the data of places and the weather.
   
 Tech stack used:
