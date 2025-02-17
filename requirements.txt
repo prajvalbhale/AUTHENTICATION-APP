@@ -1,5 +1,12 @@
-python-jose[cryptography]
-passlib[bcrypt]
+python-jose[cryptography]~=3.3.0
+passlib[bcrypt]~=1.7.4
 python-multipart
 fastapi[all] --only-binary :all:
 bcrypt
+fastapi-authlib
+jinja2
+pydantic~=1.10.21
+sqlalchemy~=1.4.46
+fastapi~=0.95.2
+requests~=2.32.3
+starlette~=0.27.0
